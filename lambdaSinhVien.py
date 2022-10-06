@@ -13,3 +13,5 @@ print('nhập tuổi')
 print(student(input()))
 
 #in giới tính
+print('Nhập giới tính')
+print(student(input()))
